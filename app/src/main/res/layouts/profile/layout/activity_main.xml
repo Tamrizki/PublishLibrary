@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="textnya"
+        android:textSize="12dp"
+        android:firstBaselineToTopHeight="60dp"
+        android:background="@color/LOK_Grey"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="textnya"
+        android:textSize="18dp"
+        android:lastBaselineToBottomHeight="40dp"
+        android:background="@color/LOK_Red"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="textnya"
+        android:textSize="18dp"
+        android:lastBaselineToBottomHeight="40dp"
+        android:background="@color/LOK_Red"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="textnya \n textnya"
+        android:textSize="18sp"
+        android:lineHeight="40sp"
+        android:background="@color/LOK_Grey"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="@color/LOK_Red"
+        android:text="textnya"
+        android:textSize="18dp"
+        android:textAlignment="gravity"
+        android:gravity="center_vertical"
+        />
+
+    <RelativeLayout
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:background="@color/LOK_Light_Teal"/>
+
+</LinearLayout>

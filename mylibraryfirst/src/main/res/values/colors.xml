@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <!-- Color Fix -->
+    <color name="LOK_Light_Teal">#8EFAE1</color>
+    <color name="LOK_Navi_Blue">#3FB3D6</color>
+    <color name="LOK_Teal">#68E1DA</color>
+    <color name="LOK_Blue">#1425D0</color>
+    <color name="LOK_Dark_Blue">#132246</color>
+    <color name="LOK_Black">#24262B</color>
+    <color name="LOK_Light_Grey">#E7ECEF</color>
+    <color name="LOK_Grey">#808F9A</color>
+    <color name="LOK_Dark_Grey">#596167</color>
+    <color name="LOK_White">#FFFFFF</color>
+    <color name="LOK_Red">#F27382</color>
+    <color name="LOK_Gold">#F2BA77</color>
+    <color name="LOK_Info">#8EC6FA</color>
+    <color name="LOK_Muted_Teal">#E5F5F2</color>
+    <color name="LOK_Lighter_Gold">#FED4A2</color>
+</resources>
